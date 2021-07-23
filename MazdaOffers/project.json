@@ -1,7 +1,7 @@
 {
   "name": "MazdaOffers",
   "description": "Processs that extracts offers from the mobile.de website coresponding to the specifications",
-  "main": "Data_Extraction.xaml",
+  "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
     "UiPath.Mail.Activities": "[1.10.5]",
@@ -44,6 +44,12 @@
     {
       "filePath": "Data_Extraction.xaml",
       "uniqueId": "70a60237-bac3-42f9-b8f5-2523935bc500",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "aa2e132f-77bd-445c-9dc5-9034347d3c8e",
       "input": [],
       "output": []
     }
